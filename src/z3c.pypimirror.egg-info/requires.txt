@@ -1,0 +1,8 @@
+setuptools
+zc.lockfile
+BeautifulSoup<=3.0.9999
+
+[test]
+zc.buildout
+zope.testing
+interlude
